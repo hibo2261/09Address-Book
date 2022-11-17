@@ -84,8 +84,8 @@ public class Contact {
           this.phoneNumber = phoneNumber;
     }
 
-    public String getEmailId() {
-        return emailId;
+    public String getEmailId() { 
+         return emailId;
     }
 
     public void setEmailId(String emailId) {
