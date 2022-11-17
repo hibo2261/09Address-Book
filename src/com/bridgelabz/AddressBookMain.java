@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class AddressBookMain {
 
-	public static void main(String[] args) {
+	public static void main(String[] args)  {
 	
 		
 		System.out.println("********************************************");
@@ -17,5 +17,5 @@ public class AddressBookMain {
 		
 		obj.options();
 	
-	}
+	 }
 }

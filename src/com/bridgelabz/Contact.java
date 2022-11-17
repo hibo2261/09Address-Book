@@ -72,7 +72,7 @@ public class Contact {
         return zipCode;
     }
 
-    public void setZipCode(int zipCode) {
+    public void setZipCode(int zipCode)  {
         this.zipCode = zipCode;
     }
 
@@ -81,7 +81,7 @@ public class Contact {
     }
 
     public void setPhoneNumber(long phoneNumber) {
-        this.phoneNumber = phoneNumber;
+          this.phoneNumber = phoneNumber;
     }
 
     public String getEmailId() {
