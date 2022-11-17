@@ -194,7 +194,6 @@ public class AddressBook {
 		  }
     }  
     
-      void displayContact() {
     	
     	
         for (Contact contact : arrayOfContcts) {
@@ -211,5 +210,4 @@ public class AddressBook {
 	         }
     	 }
       }
-   
-}
+   }

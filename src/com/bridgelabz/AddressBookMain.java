@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 
-public class AddressBookMain {
+public class AddressBookMain  {
 
 	public static void main(String[] args)  {
 	
